@@ -21,6 +21,7 @@ const Header = () => {
                             className="text-3xl font-extrabold text-blue-400 md:text-7xl">
                             I'm <div className="anim mt-2"> RISHI </div></span>
                     </motion.div>
+                   <motion.p initial={{opacity:0}} transition={{ease:"easeIn", duration: 2}} animate={{opacity:1}} id="colourchng" className="text-2xl mt-6 font-semibold md:text-2xl lg:text-3xl">FRONT END DEVELOPER </motion.p>
                    
                 </div>
                 <div className="right ml-10 w-72 md:-ml-0 md:absolute md:-right-80  md:top-8  md:w-80  p-1">
