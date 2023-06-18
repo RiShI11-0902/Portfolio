@@ -3,7 +3,7 @@ import { motion } from "framer-motion"
 const Skills = () => {
     return (
         <>
-            <div id='skills' className='mt-32 md:mt-60 '>
+            <div id='skills' className='mt-36 md:mt-60 '>
                 <p className='text-2xl text-center font-extrabold'>Skills</p>
                 <div className='md:grid md:grid-cols-3 md:p-10'>
                     <div className='p-5 '>
