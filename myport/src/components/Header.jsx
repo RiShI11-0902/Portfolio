@@ -22,8 +22,7 @@ const Header = () => {
                             I'm <div className="anim mt-2"> RISHI </div></span>
                     </motion.div>
                     <motion.p initial={{opacity:0}} transition={{ease:"easeIn", duration: 2}} animate={{opacity:1}} id="colourchng" className="text-2xl mt-6 font-semibold md:text-2xl lg:text-3xl">FRONT END DEVELOPER </motion.p>
-                    <motion.p initial={{opacity:0}} transition={{ease:"easeIn", duration: 3}} animate={{opacity:1}} className="text-lg mt-3 font-semibold md:text-2xl md:mt-3">and FOUNDER OF <a className="text-blue-900"
-                        href="https://www.instagram.com/_codecollege/">@_CODECOLLEGE</a> </motion.p>
+                    
                 </div>
                 <div className="right ml-10 w-72 md:-ml-0 md:absolute md:-right-80  md:top-8  md:w-80  p-1">
                     <motion.div initial={{y:-100}} transition={{ease:"easeIn", duration: 2}} animate={{y:30}} className='bio text-xl font-semibold italic md:text-2xl first-letter:font-bold'>
