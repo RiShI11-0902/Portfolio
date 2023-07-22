@@ -18,7 +18,7 @@ const Contact = () => {
                 <div className="left ">
                     <p className='text-xl font-medium'>CONNECT WITH ME ON</p>
                     <div className="list mt-5 flex space-x-5 flex-row">
-                    <a href="https://www.instagram.com/_codecollege/"><RiInstagramFill className='text-2xl'/></a>
+                    <a href="https://www.instagram.com/rishi_codes/"><RiInstagramFill className='text-2xl'/></a>
                     <a href="https://www.linkedin.com/in/rushikesh-bagade11"><BsLinkedin className='text-2xl'/></a>
                         <a href="https://github.com/RiShI11-0902"><AiFillGithub className='text-2xl' /> </a>
 
